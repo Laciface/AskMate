@@ -3,9 +3,9 @@
 ## How to run the project
 
 in terminal:
-    - git clone  https://github.com/Laciface/AskMate.git
-    - set up database, run schema.sql
-    - php -S localhost:8000
+    - git clone  https://github.com/Laciface/AskMate.git\
+    - set up database, run schema.sql\
+    - php -S localhost:8000\
 
 ## Tasks
 
