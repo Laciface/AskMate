@@ -4,9 +4,11 @@
 
 in terminal:
     
-    - git clone  https://github.com/Laciface/AskMate.git  
-    - set up database, run schema.sql  
-    - php -S localhost:8000  
+    1. git clone  https://github.com/Laciface/AskMate.git  
+    2. cd Ask-Mate  
+    3. git checkout master  
+    4. set up database, run schema.sql  
+    5. php -S localhost:8000  
 
 ## Tasks
 
