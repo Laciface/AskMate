@@ -1,0 +1,5 @@
+.idea
+db_config.json
+/vendor
+test.php
+/cache
