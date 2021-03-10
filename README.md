@@ -1,17 +1,11 @@
-# AskMate, again
+# AskMate
 
-## Story
+## How to run the project
 
-It is now an unbeatable fact that PHP is the best programming language out there, but you're wondering about how much exactly.
-You and your friends decided to rewrite an old project of yours in PHP from the Web Module and you chose AskMate to find out...
-
-## What are you going to learn?
-
-- the MySQL equivalent of the SQL commands you already familiar with
-- PHP sessions
-- hashed passwords in PHP
-- file uploading with PHP
-- HTML and the Blade template engine
+in terminal:
+    1. git clone  https://github.com/Laciface/AskMate.git
+    2. set up database, run schema.sql
+    3. php -S localhost:8000
 
 ## Tasks
 
@@ -141,15 +135,3 @@ You and your friends decided to rewrite an old project of yours in PHP from the 
 
 - Your approach should include the object-oriented concepts.
 - Use your own MVC framework for this team project.
-
-## Hints
-
-- None
-
-## Background materials
-
-- <i class="far fa-exclamation"></i> [PHP - Sessions](https://www.tutorialspoint.com/php/php_sessions.htm)
-- <i class="far fa-video"></i> [Set and Read Cookies with PHP](https://youtu.be/9DMrMruYGFY)
-- <i class="far fa-video"></i> [PHP Password Security](https://youtu.be/nLb5GodBTFo)
-- <i class="far fa-video"></i> [PHP File Uploads](https://youtu.be/PGzxw8Fo2Dw)
-- <i class="far fa-book-open"></i> [MySQL Naming Conventions](https://medium.com/@centizennationwide/mysql-naming-conventions-e3a6f6219efe)
