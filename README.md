@@ -3,9 +3,12 @@
 ## How to run the project
 
 in terminal:
-    - git clone  https://github.com/Laciface/AskMate.git\
-    - set up database, run schema.sql\
-    - php -S localhost:8000\
+    - The page is linked from the front page
+    - There is a form on the registration page when a request is issued with `GET` method
+    - The form asks for `email address`, `
+    - git clone  https://github.com/Laciface/AskMate.git
+    - set up database, run schema.sql
+    - php -S localhost:8000
 
 ## Tasks
 
